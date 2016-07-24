@@ -25,7 +25,7 @@
 	<key>createdby</key>
 	<string>Vu Tran</string>
 	<key>description</key>
-	<string>Lookup Pokemon information</string>
+	<string>Lookup Pokemon Information</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -70,7 +70,7 @@ fi</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Lookup Pokemon information</string>
+				<string>Lookup Pokemon Information</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
