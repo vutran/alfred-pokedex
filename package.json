@@ -1,7 +1,7 @@
 {
   "name": "alfred-pokedex",
   "version": "0.0.0",
-  "description": "",
+  "description": "> [Alfred 3](https://www.alfredapp.com) workflow to lookup inforation about Pokemon",
   "main": "index.js",
   "dependencies": {
     "fs-extra": "^0.30.0",
@@ -12,6 +12,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Vu Tran <vu@vu-tran.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vutran/alfred-pokedex.git"
+  },
+  "keywords": [
+    "pokedex",
+    "pokemon",
+    "alfred",
+    "workflows"
+  ],
+  "bugs": {
+    "url": "https://github.com/vutran/alfred-pokedex/issues"
+  },
+  "homepage": "https://github.com/vutran/alfred-pokedex#readme"
 }
