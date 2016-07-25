@@ -1,6 +1,6 @@
 {
   "name": "alfred-pokedex",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "> [Alfred 3](https://www.alfredapp.com) workflow to lookup inforation about Pokemon",
   "main": "index.js",
   "dependencies": {
