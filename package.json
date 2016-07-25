@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "fs-extra": "^0.30.0",
+    "fuzzy": "^0.1.1",
     "node-base64-image": "^1.0.1",
     "pokedex-promise-v2": "^2.3.0"
   },
