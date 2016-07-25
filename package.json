@@ -4,14 +4,21 @@
   "description": "> [Alfred 3](https://www.alfredapp.com) workflow to lookup inforation about Pokemon",
   "main": "index.js",
   "dependencies": {
+    "co": "^4.6.0",
+    "csvtojson": "^1.0.0",
     "fs-extra": "^0.30.0",
     "fuzzy": "^0.1.1",
     "node-base64-image": "^1.0.1",
     "pokedex-promise-v2": "^2.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "async": "^2.0.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-list": "node scripts/build-list.js",
+    "build-data": "node scripts/build-data.js",
+    "build-images": "node scripts/build-images.js"
   },
   "author": "Vu Tran <vu@vu-tran.com>",
   "license": "MIT",

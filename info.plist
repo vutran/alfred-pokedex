@@ -12,7 +12,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>8437C6C5-B42B-4B6E-9FDE-FD72E9F1CA83</string>
+				<string>53EE8DC0-EB34-45AB-9C82-C64389F9DE10</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -86,19 +86,13 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>{query}</string>
-				<key>utf8</key>
-				<true/>
+				<key>path</key>
+				<string>index.html</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
+			<string>alfred.workflow.action.browseinalfred</string>
 			<key>uid</key>
-			<string>8437C6C5-B42B-4B6E-9FDE-FD72E9F1CA83</string>
+			<string>53EE8DC0-EB34-45AB-9C82-C64389F9DE10</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -114,12 +108,12 @@ fi</string>
 			<key>ypos</key>
 			<integer>10</integer>
 		</dict>
-		<key>8437C6C5-B42B-4B6E-9FDE-FD72E9F1CA83</key>
+		<key>53EE8DC0-EB34-45AB-9C82-C64389F9DE10</key>
 		<dict>
 			<key>xpos</key>
-			<integer>150</integer>
+			<integer>330</integer>
 			<key>ypos</key>
-			<integer>10</integer>
+			<integer>60</integer>
 		</dict>
 	</dict>
 	<key>version</key>

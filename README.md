@@ -14,6 +14,26 @@
 
 In Alfred, type `dex`, <kbd>Enter</kbd>, and your query, to search for information about Pokemon.
 
+## Rebuild Data Models
+
+Rebuilds the basic Pokemon list
+
+```bash
+$ npm run build-list
+```
+
+Rebuilds the extended Pokemon Data
+
+```bash
+$ npm run build-data
+```
+
+Rebuilds the Pokeon images
+
+```bash
+$ npm run build-images
+```
+
 ## License
 
 MIT © [Vu Tran](http://vu-tran.com)
