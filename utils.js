@@ -20,10 +20,10 @@ const capitalize = exports.capitalize = str => str.charAt(0).toUpperCase() + str
 /**
  * Returns the official Pokemon.com URL
  *
- * @param {String} name
+ * @param {Integer|String} id
  * @return {String}
  */
-const getOpenUrl = exports.getOpenUrl = name => `http://www.pokemon.com/us/pokedex/${name}`;
+const getOpenUrl = exports.getOpenUrl = id => `http://www.swecune.com/pokemon/${id.toString()}`;
 
 /**
  * @param {Integer|String} - The pokemon ID

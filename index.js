@@ -43,7 +43,7 @@ const lookup = exports.lookup = identifier => {
 const toAlfred = pokemon => ({
   title: pokemon.name,
   subtitle: pokemon.desc,
-  arg: pokemon.id,
+  arg: utils.getOpenUrl(pokemon.id),
   icon: {
     path: utils.getSpritesPath(pokemon.id),
   },
