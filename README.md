@@ -2,7 +2,7 @@
 
 > [Alfred 3](https://www.alfredapp.com) workflow to lookup information about Pokemon
 
-!["Screenshot"](/screenshot.png?raw=true "Screenshot")
+!["Screenshot"](/screenshot.gif?raw=true "Screenshot")
 
 ## Install
 
