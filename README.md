@@ -1,10 +1,10 @@
 # alfred-pokedex
 
-> [Alfred 3](https://www.alfredapp.com) workflow to lookup inforation about Pokemon
+> [Alfred 3](https://www.alfredapp.com) workflow to lookup information about Pokemon
 
 ## Install
 
-[Install the workflow.](http://www.packal.org/workflow/pokedex-0)
+[Install the workflow.](http://www.packal.org/workflow/alfred-pokedex)
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
