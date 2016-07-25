@@ -1,7 +1,7 @@
 /**
  * Lists all pokemon
  */
-exports.all = 'http://pokeapi.co/api/v2/pokemon/?limit=9999';
+const all = exports.all = 'http://pokeapi.co/api/v2/pokemon/?limit=9999';
 
 /**
  * Returns the lookup endpoint
@@ -9,4 +9,4 @@ exports.all = 'http://pokeapi.co/api/v2/pokemon/?limit=9999';
  * @param {String} query
  * @return {String}
  */
-exports.lookup = query => `http://pokeapi.co/api/v2/pokemon/${query}`;
+const lookup = exports.lookup = query => `http://pokeapi.co/api/v2/pokemon/${query}`;
