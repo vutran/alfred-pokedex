@@ -2,6 +2,8 @@
 
 > [Alfred 3](https://www.alfredapp.com) workflow to lookup information about Pokemon
 
+!["Screenshot"](/screenshot.png?raw=true "Screenshot")
+
 ## Install
 
 [Install the workflow.](http://www.packal.org/workflow/alfred-pokedex)
