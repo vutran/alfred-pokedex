@@ -4,6 +4,7 @@
   "description": "> [Alfred 3](https://www.alfredapp.com) workflow to lookup inforation about Pokemon",
   "main": "index.js",
   "dependencies": {
+    "alfy": "^0.3.0",
     "co": "^4.6.0",
     "csvtojson": "^1.0.0",
     "fs-extra": "^0.30.0",
