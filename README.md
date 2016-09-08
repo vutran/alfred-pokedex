@@ -1,8 +1,8 @@
 # alfred-pokedex
 
-> [Alfred 3](https://www.alfredapp.com) workflow to lookup information about Pokemon
+> [Alfred 3](https://www.alfredapp.com) workflow to lookup information about Pokémon.
 
-!["Screenshot"](/screenshot.gif?raw=true "Screenshot")
+![](screenshot.gif?raw=true)
 
 ## Install
 
@@ -12,23 +12,23 @@
 
 ## Usage
 
-In Alfred, type `dex`, <kbd>Enter</kbd>, and your query, to search for information about Pokemon.
+In Alfred, type `dex`, <kbd>Enter</kbd>, and your query, to search for information about Pokémon.
 
 ## Rebuild Data Models
 
-Rebuilds the basic Pokemon list
+Rebuilds the basic Pokémon list
 
 ```bash
 $ npm run build-list
 ```
 
-Rebuilds the extended Pokemon Data
+Rebuilds the extended Pokémon Data
 
 ```bash
 $ npm run build-data
 ```
 
-Rebuilds the Pokeon images
+Rebuilds the Pokémon images
 
 ```bash
 $ npm run build-images

@@ -6,7 +6,7 @@ const VERSION_ID = 26;
 const LANG_EN = 9;
 
 /**
- * Fetches all Pokemon (pokemon.csv)
+ * Fetches all Pokémon (pokemon.csv)
  *
  * @return {Promise}
  */
@@ -17,7 +17,7 @@ const fetchAll = exports.fetchAll = () => {
 };
 
 /**
- * Fetches the Pokemon by its identifier
+ * Fetches the Pokémon by its identifier
  *
  * @param {Integer} identifier
  * @return {Promise}

@@ -6,9 +6,9 @@ const utils = require('./utils');
 const dex = require('./dex');
 
 /**
- * Looks up a single Pokemon by ID or name
+ * Looks up a single Pokémon by ID or name
  *
- * @param {String} identifier - The Pokemon identiefer
+ * @param {String} identifier - The Pokémon identifier
  * @return {Promise}
  */
 const lookup = exports.lookup = identifier => {
@@ -35,7 +35,7 @@ const lookup = exports.lookup = identifier => {
 };
 
 /**
- * Converts a Pokemon data object to a valid Alfred item
+ * Converts a Pokémon data object to a valid Alfred item
  *
  * @param {Object} pokemon
  * @return {Object}

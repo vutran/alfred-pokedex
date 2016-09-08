@@ -1,19 +1,18 @@
 {
   "name": "alfred-pokedex",
   "version": "0.5.0",
-  "description": "> [Alfred 3](https://www.alfredapp.com) workflow to lookup inforation about Pokemon",
+  "description": "[Alfred 3](https://www.alfredapp.com) workflow to lookup inforation about Pokemon.",
   "main": "index.js",
   "dependencies": {
     "alfy": "^0.3.0",
-    "co": "^4.6.0",
     "csvtojson": "^1.0.0",
     "fs-extra": "^0.30.0",
     "fuzzy": "^0.1.1",
-    "node-base64-image": "^1.0.1",
-    "pokedex-promise-v2": "^2.3.0"
+    "node-base64-image": "^1.0.1"
   },
   "devDependencies": {
-    "async": "^2.0.1"
+    "async": "^2.0.1",
+    "co": "^4.6.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

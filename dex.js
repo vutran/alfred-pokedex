@@ -3,7 +3,7 @@ const fs = require('fs-extra');
 const utils = require('./utils');
 
 /**
- * Queries for matched Pokemons (basic data)
+ * Queries for matched Pokémons (basic data)
  *
  * @param {String} query
  * @return {Promise}
@@ -23,7 +23,7 @@ const query = exports.query = query => {
 };
 
 /**
- * Looks up a single Pokemon (full data)
+ * Looks up a single Pokémon (full data)
  *
  * @param {Integer} id
  * @return {Promise}
@@ -42,7 +42,7 @@ const lookupById = exports.lookupById = id => {
 };
 
 /**
- * Creates a new Pokemon data object
+ * Creates a new Pokémon data object
  *
  * @param {Object}
  * @return {Object}
