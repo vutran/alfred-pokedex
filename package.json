@@ -8,13 +8,13 @@
     "alfred-notifier": "^0.1.0",
     "alfy": "^0.3.0",
     "csvtojson": "^1.0.0",
+    "co": "^4.6.0",
     "fs-extra": "^0.30.0",
     "fuzzy": "^0.1.1",
     "node-base64-image": "^1.0.1"
   },
   "devDependencies": {
-    "async": "^2.0.1",
-    "co": "^4.6.0"
+    "async": "^2.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
