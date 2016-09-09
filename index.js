@@ -1,9 +1,12 @@
 const path = require('path');
 const alfy = require('alfy');
 const co = require('co');
+const alfredNotifier = require('alfred-notifier');
 const api = require('./api');
 const utils = require('./utils');
 const dex = require('./dex');
+
+alfredNotifier();
 
 /**
  * Looks up a single Pokémon by ID or name
